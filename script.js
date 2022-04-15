@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const DomElement = function (selector, height, width, bg, fontSize, position) {
     this.selector = selector;
